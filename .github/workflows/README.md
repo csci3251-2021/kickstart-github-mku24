@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Figo!</h2>
+<h2 align="center">👋 Hello! I'm Alessandro Figo Saleh!</h2>
 <p align="center">
   <a href="https://linkedin.com/in/alessandrofigo">LinkedIn</a> •
 </p>
